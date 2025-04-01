@@ -30,7 +30,7 @@ export default function TodoList() {
   return (
     <>
       <div className="Container">
-        <h1>📝 TODO LIST</h1>
+        <h1>📝 Unicorn Todos</h1>
 
         <input
           type="text"
